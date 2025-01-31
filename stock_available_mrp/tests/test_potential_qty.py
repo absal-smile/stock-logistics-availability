@@ -180,7 +180,7 @@ class TestPotentialQty(TransactionCase):
                 i,
                 0.0,
                 "Receiving a single component should not change the "
-                "potential of %s" % i,
+                f"potential of {i}",
             )
 
         # Receive enough bolt to make 1000x the 1st variant in main WH
@@ -456,7 +456,7 @@ class TestPotentialQty(TransactionCase):
                 i,
                 0.0,
                 "Receiving a single component should not change the "
-                "potential of %s" % i,
+                f"potential of {i}",
             )
 
         # Receive second component

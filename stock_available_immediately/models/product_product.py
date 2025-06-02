@@ -12,7 +12,7 @@ class ProductProduct(models.Model):
     def _compute_available_quantities_dict(self):
         res, stock_dict = super()._compute_available_quantities_dict()
         for product in self:
-            if product.type == "consu":
+            if not product.is_storable:
                 res[product.id]["immediately_usable_qty"] = stock_dict[product.id][
                     "virtual_available"
                 ]

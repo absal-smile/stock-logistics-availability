@@ -61,17 +61,17 @@ Authors
 Contributors
 ------------
 
--  Author: Guewen Baconnier (Camptocamp SA)
--  Sébastien BEAU (Akretion) <sebastien.beau@akretion.com>
--  Lionel Sausin (Numérigraphe) <ls@numerigraphe.com>
--  Sodexis <sodexis@sodexis.com>
--  Cédric Pigeon <cedric.pigeon@acsone.eu>
--  Sergio Díaz <sergiodm.1989@gmail.com>
--  `Tecnativa <https://www.tecnativa.com>`__:
+- Author: Guewen Baconnier (Camptocamp SA)
+- Sébastien BEAU (Akretion) <sebastien.beau@akretion.com>
+- Lionel Sausin (Numérigraphe) <ls@numerigraphe.com>
+- Sodexis <sodexis@sodexis.com>
+- Cédric Pigeon <cedric.pigeon@acsone.eu>
+- Sergio Díaz <sergiodm.1989@gmail.com>
+- `Tecnativa <https://www.tecnativa.com>`__:
 
-   -  Pedro M. Baeza
+  - Pedro M. Baeza
 
--  Florian da Costa <florian.dacosta@akretion.com>
+- Florian da Costa <florian.dacosta@akretion.com>
 
 Maintainers
 -----------
